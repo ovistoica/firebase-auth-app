@@ -1,0 +1,12 @@
+{
+  "api": "https://us-central1-your-app-id.cloudfunctions.net",
+  "firebaseConfig": {
+    "apiKey": "AIRandomApiKey",
+    "authDomain": "your-app-name.firebaseapp.com",
+    "databaseURL": "https://your-app-id.firebaseio.com",
+    "projectId": "your-app-id",
+    "storageBucket": "",
+    "messagingSenderId": "5555555555555",
+    "appId": "long-form-app-id"
+  }
+}
